@@ -1,0 +1,7 @@
+pandas==2.2.2
+sqlalchemy==2.0.29
+great-expectations==0.18.12
+psycopg[binary]==3.1.18
+greenlet==3.0.3
+numpy==1.26.4
+openai==0.28
