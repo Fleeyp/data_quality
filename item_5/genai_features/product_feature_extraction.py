@@ -33,5 +33,7 @@ data = {
     "description": "Premium PU Leather. RFID protection. Handmade..."
 }
 
+# Para fazer uso deste script da maneira desejada, altere o prompt como desejar, e altere também o conteúdo de data
+
 features = extract_features(data["title"], data["description"])
 print(features)
