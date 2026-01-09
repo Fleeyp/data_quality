@@ -6,7 +6,7 @@ O objetivo do case é demonstrar, de ponta a ponta, a construção de uma Plataf
 
 ---
 
-## 🔹 Dataset Utilizado
+## Dataset Utilizado
 - **Olist E-commerce Dataset**
 - Fonte: Kaggle (dataset público)
 - Volume: > 100.000 registros
@@ -14,7 +14,7 @@ O objetivo do case é demonstrar, de ponta a ponta, a construção de uma Plataf
 
 ---
 
-## 🔹 Principais Etapas do Case
+## Principais Etapas do Case
 - Integração de dados via PostgreSQL + Dadosfera
 - Catalogação e organização em Data Lake
 - Validação de qualidade de dados (Great Expectations)
@@ -22,7 +22,7 @@ O objetivo do case é demonstrar, de ponta a ponta, a construção de uma Plataf
 
 ---
 
-## 🔹 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - PostgreSQL
 - Dadosfera (Coleta, Catálogo, Visualização)
 - Python
@@ -32,10 +32,10 @@ O objetivo do case é demonstrar, de ponta a ponta, a construção de uma Plataf
 
 ---
 
-## 🔹 Objetivo
+## Objetivo
 Este projeto foi desenvolvido como uma **Prova de Conceito (PoC)** técnica para avaliação da viabilidade da Dadosfera como plataforma central de dados.
 
-## 🔹 Important:
+## Important:
 Comando que deve ser rodado para instalar os requirements necessários:
 python3 -m venv .venv
 source .venv/bin/activate
